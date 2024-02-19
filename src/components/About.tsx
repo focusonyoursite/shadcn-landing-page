@@ -16,7 +16,7 @@ export const About = () => {
                 <span className="bg-gradient-to-b from-primary/60 to-primary text-transparent bg-clip-text">
                   Is {" "}
                 </span>
-                Dennis Schouten  
+                Dennis Schouten   
                  <span className="bg-gradient-to-b from-primary/60 to-primary text-transparent bg-clip-text ml-3">
                     al dood?{" "}
                 </span>
