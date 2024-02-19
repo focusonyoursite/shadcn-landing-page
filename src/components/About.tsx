@@ -21,7 +21,7 @@ export const About = () => {
                     al dood?{" "}
                 </span>
               </h2>
-              <p className="text-xl text-muted-foreground mt-4">
+              <p className="text-xxl text-muted-foreground mt-4">
                 Nope, Dennis leeft nog! 
               </p>
             </div> 
