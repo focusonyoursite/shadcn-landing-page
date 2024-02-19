@@ -22,7 +22,7 @@ export const About = () => {
                 </span>
               </h2>
               <p className="text-xl text-muted-foreground mt-4">
-                Nope, Dennis leeft nog!
+                Nope, Dennis leeft nog!   :)
               </p>
             </div> 
           </div>
